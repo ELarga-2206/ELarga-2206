@@ -1,12 +1,16 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
+  <img height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/ea746654800597.596a16ed42e59.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/jannearlmatthewlarga" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="earl.larga22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -17,15 +21,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Git init</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">My Specs</h3>
 
 ###
 
-<p align="left">I am a BS Computer Engineering student from PUP currently working through the core of my degree. I enjoy the logic side of programming and am currently looking towards a hybrid skill set that connects hardware, software, networking, and cloud computing. <br><br>- 🖥️ Polishing my Python and Object Oriented programming skills, as well as Data Structures and Algorithms<br><br>- 🌐 Currently a Networking Cadet at CiscoNet (PUP), focusing on Cisco networking fundamentals and infrastructure.<br><br>- ☁️ Member/Cadet in Cloud Solutions Google Developer Group PUP, currently learning the ropes of Google Cloud Platform (GCP) and cloud architecture.<br><br>- 🛠️ Hardware & Systems: Experienced with breadboarding, transistors, and timers. Currently bridging this hardware knowledge with Operating Systems and Advanced Math studies for better expertise :)</p>
+<p align="left">BSCpE student at PUP Manila. I’m into the logic side of things where code meets physical hardware and networking. I don't know everything yet, but I'm really good at reading and understanding documentation and troubleshooting until it works. <br><br>- 🖥️ Spending a lot of time breaking and fixing things in Python. Currently deep-diving into OOP and DSA logic to see how far I can push efficiency.<br><br>- 🌐 Networking cadet @ CiscoNet (PUP): Learning how the internet actually moves packets. Currently obsessed with routing logic and the infrastructure that doesn't fall over<br><br>- ☁️ Member/Cadet in Cloud Solutions Google Developer Group PUP, currently learning Google Cloud Platform (GCP) and cloud architecture.<br><br>- 🛠️ Hardware & Systems: I like messing with breadboards, transistors, and 555 timers. Currently trying to bridge the gap between physical circuits and the OS layer without letting the magic smoke out of the components. <br><br>- 📐 Currently trying to figure out how Operating Systems and Advanced Math actually talk to the hardware. It's a grind💀<br><br>🪧LOOKING for a 300-hour OJT where I can be useful and learn how enterprise systems actually run. (._. )></p>
 
 ###
 
